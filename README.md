@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkshyamkrishnan
-- 👀 I’m interested in React/javascript/Docker/TensorFlow/Flutter
-- 🌱 I’m currently learning React/Docker/Flutter
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning AI agent workflow and harness development
 - 💞️ I’m looking to collaborate on any front-end project
 - 📫 you can reach me through mail pkshyamkrishnan@gmail.com
 
